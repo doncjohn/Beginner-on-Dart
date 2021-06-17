@@ -1,2 +1,2 @@
-# Beginner-on-Dart
-Dart Beginner Programs
+# Beginner on Dart
+Dart Beginner Friendly Programs
